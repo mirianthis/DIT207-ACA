@@ -1,0 +1,26 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/alucontrol.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alucontrol
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/andm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module andm
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/datapath.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module datapath
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mem_async.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_async
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mem_sync.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mem_sync
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mips.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mips
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/pclogic.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pclogic
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/rf.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rf
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/signextend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module signextend
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/tb_mips.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_mips

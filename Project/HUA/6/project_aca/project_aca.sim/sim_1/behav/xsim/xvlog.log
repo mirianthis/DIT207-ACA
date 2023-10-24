@@ -1,0 +1,41 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/ALUcontrol.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALUcontrol
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/Controlstall.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Controlstall
+INFO: [VRFC 10-311] analyzing module nopSet
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/DM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DMemBank
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/EXMEM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module EXMEM
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/IDEX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IDEX
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/InstMem.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module IMemBank
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/MEMWB.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module MEMWB
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/MUX.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2
+INFO: [VRFC 10-311] analyzing module mux2A
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PCRegWrite
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/RegFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/adder32bit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder32bit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/concatforJump.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module concatForJump
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/controlunit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module controlUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/mypip.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Mypip
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/shiftleft.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftLeft32bitLeft
+INFO: [VRFC 10-311] analyzing module shiftLeftForJump
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/signExt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module signExt
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/stall.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stallUnit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/miria/OneDrive/HUA/6/project_aca/f2/tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TB

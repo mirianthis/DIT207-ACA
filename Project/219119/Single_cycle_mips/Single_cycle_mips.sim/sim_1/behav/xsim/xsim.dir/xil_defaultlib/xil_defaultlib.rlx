@@ -1,0 +1,18 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+C:/Users/miria/OneDrive/219119/Single_cycle_mips/Single_cycle_mips.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/alu.v,1657093200,verilog,,C:/Users/miria/OneDrive/219119/files/alucontrol.v,,alu,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/alucontrol.v,1657094293,verilog,,C:/Users/miria/OneDrive/219119/files/andm.v,,alucontrol,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/andm.v,1655024098,verilog,,C:/Users/miria/OneDrive/219119/files/control.v,,andm,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/control.v,1657091473,verilog,,C:/Users/miria/OneDrive/219119/files/datapath.v,,control,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/datapath.v,1655024098,verilog,,C:/Users/miria/OneDrive/219119/files/mem_async.v,,datapath,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/mem_async.v,1657094546,verilog,,C:/Users/miria/OneDrive/219119/files/mem_sync.v,,mem_async,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/mem_sync.v,1655024566,verilog,,C:/Users/miria/OneDrive/219119/files/mips.v,,mem_sync,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/mips.v,1655024098,verilog,,C:/Users/miria/OneDrive/219119/files/mux.v,,mips,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/mux.v,1655024098,verilog,,C:/Users/miria/OneDrive/219119/files/pclogic.v,,mux,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/pclogic.v,1655024098,verilog,,C:/Users/miria/OneDrive/219119/files/rf.v,,pclogic,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/rf.v,1655024476,verilog,,C:/Users/miria/OneDrive/219119/files/signextend.v,,rf,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/signextend.v,1655024098,verilog,,C:/Users/miria/OneDrive/219119/files/tb_mips.v,,signextend,,,,,,,,
+C:/Users/miria/OneDrive/219119/files/tb_mips.v,1655024098,verilog,,,,tb_mips,,,,,,,,

@@ -1,0 +1,29 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../files/Adder.v" \
+"../../../../files/Comparator.v" \
+"../../../../files/DataMemory.v" \
+"../../../../files/EX_MemReg.v" \
+"../../../../files/ForwardingUnit.v" \
+"../../../../files/HazardDetectionUnit.v" \
+"../../../../files/ID_EX_reg.v" \
+"../../../../files/IF_IDReg.v" \
+"../../../../files/InstructionMemory.v" \
+"../../../../files/Mem_WbReg.v" \
+"../../../../files/Mux2x1_10Bits.v" \
+"../../../../files/Mux3x1_32Bits.v" \
+"../../../../files/ShiftLeft2.v" \
+"../../../../../../../Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/alu.v" \
+"../../../../../../../Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/alucontrol.v" \
+"../../../../../../../Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/control.v" \
+"../../../../../../../Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mux.v" \
+"../../../../../../../Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/pclogic.v" \
+"../../../../../../../Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/rf.v" \
+"../../../../../../../Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/signextend.v" \
+"../../../../files/MipsPipelineTestBench.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

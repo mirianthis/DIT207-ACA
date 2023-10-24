@@ -1,0 +1,28 @@
+Vivado Simulator 2020.1
+Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
+Running: D:/Vivado/2020.1/bin/unwrapped/win64.o/xelab.exe -wto 4bf7ac0b99794059bce9a0bc61e3ce4d --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_mips_behav xil_defaultlib.tb_mips xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS_Cycle/MIPS_Cycle.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/miria/OneDrive/Υπολογιστής/HUA/6ο ΕΞΑΜΗΝΟ/Σύγρονες Αρχιτεκτονικές Υπολογιστών/ACA_LABS/LAB_ACA_3/MIPS_Cycle/MIPS_Cycle.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.mem_async
+Compiling module xil_defaultlib.mem_sync
+Compiling module xil_defaultlib.rf
+Compiling module xil_defaultlib.alucontrol
+Compiling module xil_defaultlib.alu
+Compiling module xil_defaultlib.pclogic
+Compiling module xil_defaultlib.andm
+Compiling module xil_defaultlib.signextend
+Compiling module xil_defaultlib.mux(DATA_LENGTH=5)
+Compiling module xil_defaultlib.mux(DATA_LENGTH=32)
+Compiling module xil_defaultlib.datapath
+Compiling module xil_defaultlib.control
+Compiling module xil_defaultlib.mips
+Compiling module xil_defaultlib.tb_mips
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot tb_mips_behav

@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/alu.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/alucontrol.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/andm.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/control.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/datapath.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mem_async.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mem_sync.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mips.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/mux.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/pclogic.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/rf.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/signextend.v" \
+"../../../../../MIPS-single-cycle_lab-20220520T123714Z-001/MIPS-single-cycle_lab/tb_mips.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Fri May  6 17:58:41 2022
+# Process ID: 10318
+# Current directory: /home/SMB/it219119/Desktop/ACA_LABS/LAB_ACA_2/LAB_2_ARBITER/LAB_2_ARBITER.runs/synth_1
+# Command line: vivado -log m_bit_reg.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source m_bit_reg.tcl
+# Log file: /home/SMB/it219119/Desktop/ACA_LABS/LAB_ACA_2/LAB_2_ARBITER/LAB_2_ARBITER.runs/synth_1/m_bit_reg.vds
+# Journal file: /home/SMB/it219119/Desktop/ACA_LABS/LAB_ACA_2/LAB_2_ARBITER/LAB_2_ARBITER.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source m_bit_reg.tcl -notrace

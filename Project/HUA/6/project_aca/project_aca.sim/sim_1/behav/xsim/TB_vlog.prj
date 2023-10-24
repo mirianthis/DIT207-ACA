@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../f2/ALU.v" \
+"../../../../f2/ALUcontrol.v" \
+"../../../../f2/Controlstall.v" \
+"../../../../f2/DM.v" \
+"../../../../f2/EXMEM.v" \
+"../../../../f2/IDEX.v" \
+"../../../../f2/InstMem.v" \
+"../../../../f2/MEMWB.v" \
+"../../../../f2/MUX.v" \
+"../../../../f2/PC.v" \
+"../../../../f2/RegFile.v" \
+"../../../../f2/adder32bit.v" \
+"../../../../f2/concatforJump.v" \
+"../../../../f2/controlunit.v" \
+"../../../../f2/mypip.v" \
+"../../../../f2/shiftleft.v" \
+"../../../../f2/signExt.v" \
+"../../../../f2/stall.v" \
+"../../../../f2/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

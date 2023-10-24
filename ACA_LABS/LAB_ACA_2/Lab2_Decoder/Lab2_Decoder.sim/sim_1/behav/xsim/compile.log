@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SMB/it219119/Desktop/ACA_LABS/LAB_ACA_2/Lab2_Decoder/Lab2_Decoder.srcs/sources_1/new/decoder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SMB/it219119/Desktop/ACA_LABS/LAB_ACA_2/Lab2_Decoder/Lab2_Decoder.srcs/sim_1/new/decoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/SMB/it219119/Desktop/ACA_LABS/LAB_ACA_2/Lab2_Decoder/Lab2_Decoder.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

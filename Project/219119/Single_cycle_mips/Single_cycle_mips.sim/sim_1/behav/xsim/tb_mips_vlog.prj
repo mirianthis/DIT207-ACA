@@ -1,0 +1,21 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../files/alu.v" \
+"../../../../../files/alucontrol.v" \
+"../../../../../files/andm.v" \
+"../../../../../files/control.v" \
+"../../../../../files/datapath.v" \
+"../../../../../files/mem_async.v" \
+"../../../../../files/mem_sync.v" \
+"../../../../../files/mips.v" \
+"../../../../../files/mux.v" \
+"../../../../../files/pclogic.v" \
+"../../../../../files/rf.v" \
+"../../../../../files/signextend.v" \
+"../../../../../files/tb_mips.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
